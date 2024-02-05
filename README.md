@@ -1,4 +1,4 @@
-# CodeClause_Sentiment_Analysis
+# Sentiment_Analysis
 ## Project Name: Sentiment Analysis
 * DataSet: The dataset is included with the files uploaded `twitter_training.csv` and `twitter_validation.csv`
 * This project was completed as part of my internship at Code Clause, where I had the fantastic opportunity to explore the field of sentiment analysis and its application on Twitter data. Sentiment analysis, also known as opinion mining, is a natural language processing technique used to determine the sentiment expressed in a piece of text.
